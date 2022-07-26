@@ -1,0 +1,15 @@
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson09HandsOn\AlgorithmsAndDebugging\bin\Debug\net6.0\AlgorithmsAndDebugging.exe
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson09HandsOn\AlgorithmsAndDebugging\bin\Debug\net6.0\AlgorithmsAndDebugging.deps.json
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson09HandsOn\AlgorithmsAndDebugging\bin\Debug\net6.0\AlgorithmsAndDebugging.runtimeconfig.json
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson09HandsOn\AlgorithmsAndDebugging\bin\Debug\net6.0\AlgorithmsAndDebugging.dll
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson09HandsOn\AlgorithmsAndDebugging\bin\Debug\net6.0\ref\AlgorithmsAndDebugging.dll
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson09HandsOn\AlgorithmsAndDebugging\bin\Debug\net6.0\AlgorithmsAndDebugging.pdb
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson09HandsOn\AlgorithmsAndDebugging\obj\Debug\net6.0\AlgorithmsAndDebugging.csproj.AssemblyReference.cache
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson09HandsOn\AlgorithmsAndDebugging\obj\Debug\net6.0\AlgorithmsAndDebugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson09HandsOn\AlgorithmsAndDebugging\obj\Debug\net6.0\AlgorithmsAndDebugging.AssemblyInfoInputs.cache
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson09HandsOn\AlgorithmsAndDebugging\obj\Debug\net6.0\AlgorithmsAndDebugging.AssemblyInfo.cs
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson09HandsOn\AlgorithmsAndDebugging\obj\Debug\net6.0\AlgorithmsAndDebugging.csproj.CoreCompileInputs.cache
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson09HandsOn\AlgorithmsAndDebugging\obj\Debug\net6.0\AlgorithmsAndDebugging.dll
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson09HandsOn\AlgorithmsAndDebugging\obj\Debug\net6.0\ref\AlgorithmsAndDebugging.dll
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson09HandsOn\AlgorithmsAndDebugging\obj\Debug\net6.0\AlgorithmsAndDebugging.pdb
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson09HandsOn\AlgorithmsAndDebugging\obj\Debug\net6.0\AlgorithmsAndDebugging.genruntimeconfig.cache
